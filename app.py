@@ -1,6 +1,6 @@
 ## step 1 : first go to input folder and read the file data in to lisyformat
 
-fvar = open(r'D:\SANTHOSH\Python_Projects\vodafoneBilling\input\9986019198.txt', 'r')
+fvar = open(r'D:\mdafsar\Python_Projects\vodafoneBilling\input\9986019198.txt', 'r')
 data = fvar.readlines()
 fvar.close()
 #print(data)
